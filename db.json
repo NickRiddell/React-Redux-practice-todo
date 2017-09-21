@@ -29,21 +29,6 @@
       "name": "new",
       "isComplete": false,
       "id": 6
-    },
-    {
-      "name": "new2",
-      "isComplete": false,
-      "id": 7
-    },
-    {
-      "name": "New todo",
-      "isComplete": false,
-      "id": 8
-    },
-    {
-      "name": "Save test",
-      "isComplete": false,
-      "id": 9
     }
   ]
 }
